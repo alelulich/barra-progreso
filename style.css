@@ -1,0 +1,30 @@
+.contendor-barra{
+    background-color: beige;
+    width: 500px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 15px;
+}
+.porcentaje-barra{
+    background-color: lightcoral;
+    height: 28px;
+    border: 1px solid lightgray;
+    border-radius: 100px;
+    width: 500px;
+}
+.diez {
+    width: 50px;
+}
+.veinteycinco{
+    width: 125px;
+}.cincuenta{
+    width: 250px;
+}
+.setentaycinco{
+    width: 400px;
+}
+.cien{
+    width: 495px;
+}
